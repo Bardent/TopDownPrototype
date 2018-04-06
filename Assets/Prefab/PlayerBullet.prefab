@@ -196,6 +196,7 @@ MonoBehaviour:
   rb: {fileID: 50990724848683840}
   velocity: 1000
   sound: {fileID: 1652039983122418, guid: 16925be03613ef1449813e2be7d7d593, type: 2}
+  Damage: 25
 --- !u!212 &212574812568497512
 SpriteRenderer:
   m_ObjectHideFlags: 1
